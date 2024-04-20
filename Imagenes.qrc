@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>higgs2.jpeg</file>
+        <file>higgsch.jpeg</file>
+        <file>flitoEjAmIcon.jpeg</file>
+        <file>flitoEjBnIcon.jpeg</file>
+        <file>flitoEjIcon.jpeg</file>
+        <file>flitoEjRIcon.jpeg</file>
+        <file>Flechas.png</file>
+        <file>Flechas1.png</file>
+        <file>Flechas2.png</file>
+    </qresource>
+</RCC>
